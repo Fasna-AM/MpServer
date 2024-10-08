@@ -1,0 +1,68 @@
+{
+  "allVideos": [
+    {
+      "id": "05f3",
+      "caption": "Vaazha Movie",
+      "url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00405504-fyheletzcp-landscape.jpg",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    },
+    {
+      "id": "f29e",
+      "caption": "Leo Movie",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS175u6AUkrm2WrA20QGxhyhhqFFJnZj38zkg&s",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "e1e7",
+      "caption": "React Tutorial",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQm9wNFRBoQXgVwVbMPAaGk95Q9lqXvZzvfw&s",
+      "link": "https://www.youtube.com/embed/LDB4uaJ87e0"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3355",
+      "categoryName": "Tutorials",
+      "allvideos": [
+        {
+          "id": "eed7",
+          "caption": "Java Script",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ4qe-TiNdb7kONl0a1C3a1R3H9TPWKSJeGg&s",
+          "link": "https://www.youtube.com/embed/PkZNo7MFNFg"
+        },
+        {
+          "id": "0591",
+          "caption": "CSS",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH-oIAvcVSDEN54K4XFbmUAynW9xva-dQ0g&s",
+          "link": "https://www.youtube.com/embed/yfoY53QXEnI"
+        }
+      ]
+    },
+    {
+      "id": "e2b6",
+      "categoryName": "Trailers",
+      "allvideos": [
+        {
+          "id": "59ef",
+          "caption": "AAveshm Movie",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12ydjC8Yg3XDJbSWzlEzXQcX8jLysbH6P_Q&s",
+          "link": "https://www.youtube.com/embed/L0yEMl8PXnw"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "fd1b",
+      "caption": "Leo Movie",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "10/3/2024, 2:16:24 PM GMT+5:30"
+    },
+    {
+      "id": "b66b",
+      "caption": "Vaazha Movie",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "10/8/2024, 2:03:57 PM GMT+5:30"
+    }
+  ]
+}
